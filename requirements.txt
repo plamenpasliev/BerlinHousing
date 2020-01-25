@@ -1,0 +1,7 @@
+requests==2.22.0
+matplotlib==3.0.3
+googlemaps==4.1.0
+folium==0.10.1
+pandas==0.24.2
+beautifulsoup4==4.7.1
+seaborn==0.9.0
