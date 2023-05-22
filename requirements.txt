@@ -1,4 +1,4 @@
-requests==2.22.0
+requests==2.31.0
 matplotlib==3.0.3
 googlemaps==4.1.0
 folium==0.10.1
